@@ -1,4 +1,4 @@
-//Project description
+// Project description
 A one-week group project developed with 4 other code cadets after classes in our while at <Academia de Código_>.
 
 // The Idea
